@@ -1,0 +1,3 @@
+body_part: "given the description, what body part is it?"
+powered: "given  the description, how is it powered?"
+materials_list: "gievn the description, what materials are used?"
